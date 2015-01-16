@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testing2.CDiebold2012Test" tests="8" skipped="1" failures="0" errors="0" timestamp="2015-01-16T18:25:01" hostname="Developer" time="0.203">
+  <properties/>
+  <testcase name="test_file_not_null" classname="testing2.CDiebold2012Test" time="0.141"/>
+  <testcase name="test_file_isReadable" classname="testing2.CDiebold2012Test" time="0.0"/>
+  <testcase name="test_url_not_null" classname="testing2.CDiebold2012Test" time="0.0"/>
+  <testcase name="test_is_onto" classname="testing2.CDiebold2012Test" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test_is_a_function" classname="testing2.CDiebold2012Test" time="0.016"/>
+  <testcase name="test_is_reflexive" classname="testing2.CDiebold2012Test" time="0.015"/>
+  <testcase name="test_is_one_to_one" classname="testing2.CDiebold2012Test" time="0.0"/>
+  <testcase name="test_file_exists" classname="testing2.CDiebold2012Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
